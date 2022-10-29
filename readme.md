@@ -11,3 +11,8 @@ Olá eu sou o Mateus, repositório no intuito de mostrar meu progresso e nas aul
 ###### Projeto Finalizado ######
 
 ![](imagens/Proje-chale-hotel.png)
+
+
+###### Exemplificando o efeito que foi explicado ######
+
+![](imagens/Chale-hotel-github.gif)
